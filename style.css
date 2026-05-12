@@ -55,18 +55,21 @@ nav a:hover {
 
 .lead-story {
   margin-bottom: 0px;
+  font-variant: normal;
 }
 
 .tagline {
   font-size: 1rem;
   font-style: normal;
   font-weight: normal;
+  font-variant: normal;
 }
 
 .byline {
   font-size: 0.9rem;
   font-weight: normal;
   font-style: italic;
+  font-variant: normal;
 }
 
 /* Articles */
@@ -77,6 +80,7 @@ article {
 
 article h3 {
   font-family: 'Playfair Display', serif;
+   font-variant: normal;
 }
 
 /* Projects / Issues list */
@@ -89,6 +93,7 @@ ul li {
   border-top: 1px solid black;
   padding: 0px 0;
   font-size: 0.95rem;
+   font-variant: normal;
   
 }
 ul li:hover {

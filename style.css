@@ -55,11 +55,11 @@ nav a:hover {
 
 .lead-story {
   margin-bottom: 0px;
-  font-variant: normal;
 }
 
 .tagline {
   font-size: 1rem;
+  font-family: 'Playfair Display', serif;
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
@@ -67,6 +67,7 @@ nav a:hover {
 
 .byline {
   font-size: 0.9rem;
+  font-family: 'Playfair Display', serif;
   font-weight: normal;
   font-style: italic;
   font-variant: normal;
@@ -79,6 +80,7 @@ article {
 }
 
 article h3 {
+  font-family: 'Playfair Display', serif;
   font-family: 'Playfair Display', serif;
    font-variant: normal;
 }

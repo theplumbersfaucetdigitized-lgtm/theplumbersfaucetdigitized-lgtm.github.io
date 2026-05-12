@@ -59,10 +59,12 @@ nav a:hover {
 .tagline {
   font-size: 1rem;
   font-style: normal;
+  font-weight: normal;
 }
 
 .byline {
   font-size: 0.9rem;
+  font-weight: normal;
   font-style: italic;
 }
 

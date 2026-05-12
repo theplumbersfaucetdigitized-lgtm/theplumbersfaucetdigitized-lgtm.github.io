@@ -19,7 +19,7 @@ body {
   margin-bottom: 0px;margin-bottom: 0px;
 }
 
-.tagline {
+.descriptionLine {
   font-size: 1rem;
   font-style: italic;
 }
@@ -53,10 +53,14 @@ nav a:hover {
   margin-bottom: 0px;
 }
 
+.tagline {
+  font-size: 1rem;
+  font-style: normal;
+}
 
 .byline {
   font-size: 0.9rem;
-  font-style: 
+  font-style: italic;
 }
 
 /* Articles */

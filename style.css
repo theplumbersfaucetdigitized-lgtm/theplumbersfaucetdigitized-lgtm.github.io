@@ -1,0 +1,88 @@
+/* Base */
+body {
+  font-family: 'Libre Baskerville', serif;
+  background-color: #fdfbf7;
+  color: #111;
+  margin: 40px auto;
+  max-width: 800px;
+  line-height: 1.6;
+}
+
+/* Masthead */
+.masthead {
+  margin-bottom: 0px;
+}
+
+.masthead h1 {
+  font-family: 'Playfair Display', serif;
+  font-size: 3rem;
+  margin-bottom: 0px;
+}
+
+.tagline {
+  font-size: 1rem;
+  font-style: italic;
+}
+
+/* Navigation */
+nav {
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  padding: 10px 0;
+  margin: 10px 0;
+}
+
+nav a {
+  margin-right: 20px;
+  text-decoration: none;
+  color: black;
+  font-size: 0.95rem;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+.section{
+  margin-bottom: -3px;
+  font-size: 1.2rem;
+  font-style: bold;
+}
+
+.lead-story {
+  margin-bottom: 0px;
+}
+
+
+.byline {
+  font-size: 0.9rem;
+  font-style: italic;
+}
+
+/* Articles */
+article {
+  padding-top: 0px;
+  margin-bottom: 0px;
+}
+
+article h3 {
+  font-family: 'Playfair Display', serif;
+}
+
+/* Projects / Issues list */
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+ul li {
+  border-top: 1px solid black;
+  padding: 0px 0;
+  font-size: 0.95rem;
+}
+
+/* Subtle asymmetry (zine feel)
+article:nth-child(2) {
+  margin-left: 20px;
+}
+ */

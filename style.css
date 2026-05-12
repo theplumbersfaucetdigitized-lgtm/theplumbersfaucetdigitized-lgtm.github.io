@@ -17,6 +17,8 @@ body {
   font-family: 'Playfair Display', serif;
   font-size: 3rem;
   margin-bottom: 0px;margin-bottom: 0px;
+    font-variant: small-caps;
+  font-weight: bold;
 }
 
 .descriptionLine {
@@ -46,7 +48,8 @@ nav a:hover {
 .section{
   margin-bottom: -3px;
   font-size: 1.2rem;
-  font-style: bold;
+  font-weight: bold;
+  font-style: normal;
 }
 
 .lead-story {

@@ -89,6 +89,10 @@ ul li {
   border-top: 1px solid black;
   padding: 0px 0;
   font-size: 0.95rem;
+  
+}
+ul li:hover {
+  text-decoration: underline;
 }
 
 

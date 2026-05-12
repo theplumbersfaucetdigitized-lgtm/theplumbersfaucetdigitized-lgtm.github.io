@@ -46,6 +46,7 @@ nav a:hover {
 }
 
 .section{
+  border-top: 1px solid black;
   margin-bottom: -3px;
   font-size: 1.2rem;
   font-weight: bold;

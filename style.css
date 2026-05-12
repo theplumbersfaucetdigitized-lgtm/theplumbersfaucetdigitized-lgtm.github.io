@@ -63,6 +63,7 @@ nav a:hover {
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
+     text-indent: 10%;
 }
 
 .byline {
@@ -71,6 +72,7 @@ nav a:hover {
   font-weight: normal;
   font-style: italic;
   font-variant: normal;
+     text-indent: 10%;
 }
 
 /* Articles */
@@ -83,6 +85,7 @@ article h3 {
   font-family: 'Playfair Display', serif;
   font-family: 'Playfair Display', serif;
    font-variant: normal;
+     text-indent: 10%;
 }
 
 /* Projects / Issues list */
